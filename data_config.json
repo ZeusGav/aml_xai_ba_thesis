@@ -1,7 +1,7 @@
 #Paths to data and model directories - this is specific to my local environment and needs to be adjusted for reproducibility.
 {
     "paths": {
-      "aml_data": "/Users/alexiosgavras/Desktop/GitHub/ba_thesis_helper/archive", 
+      "aml_data": "/Users/alexiosgavras/Desktop/GitHub/ba_thesis_helper/data_small_hi", 
       "model_to_load": "/Users/alexiosgavras/Desktop/GitHub/ba_thesis_helper/models_to_load",
       "model_to_save": "/Users/alexiosgavras/Desktop/GitHub/ba_thesis_helper/models_to_save"
     }
