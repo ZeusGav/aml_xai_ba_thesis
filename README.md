@@ -3,6 +3,8 @@ The code for my bachelor thesis paper, based on the open source code from the pa
 
 Below is the original readme file from the open source code from the websites mentioned.
 
+This code was set up for usage on an 2019 MacBook Pro with an Intel chip and without dedicated GPU.
+
 ---
 
 
