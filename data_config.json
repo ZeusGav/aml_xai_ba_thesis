@@ -1,4 +1,3 @@
-#Paths to data and model directories - this is specific to my local environment and needs to be adjusted for reproducibility.
 {
     "paths": {
       "aml_data": "/Users/alexiosgavras/Desktop/GitHub/ba_thesis_helper/data_small_hi", 
